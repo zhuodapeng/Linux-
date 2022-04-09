@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "playcontrl.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "socket.h": "c",
+        "inet.h": "c"
+    }
+}
